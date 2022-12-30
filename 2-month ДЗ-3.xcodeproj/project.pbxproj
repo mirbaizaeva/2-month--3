@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		36ECF6FF295C8BF9000C650E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36ECF6FE295C8BF9000C650E /* main.swift */; };
+		36ECF706295DC44D000C650E /* Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36ECF705295DC44D000C650E /* Students.swift */; };
+		36ECF708295DC46B000C650E /* Teachers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36ECF707295DC46B000C650E /* Teachers.swift */; };
+		36ECF70A295DC6B0000C650E /* DataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36ECF709295DC6B0000C650E /* DataBase.swift */; };
+		36ECF70C295DF2A8000C650E /* hospital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36ECF70B295DF2A8000C650E /* hospital.swift */; };
+		36ECF70E295DF2CB000C650E /* patients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36ECF70D295DF2CB000C650E /* patients.swift */; };
+		36ECF710295E0682000C650E /* patient list.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36ECF70F295E0682000C650E /* patient list.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +31,12 @@
 /* Begin PBXFileReference section */
 		36ECF6FB295C8BF9000C650E /* 2-month ДЗ-3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2-month ДЗ-3"; sourceTree = BUILT_PRODUCTS_DIR; };
 		36ECF6FE295C8BF9000C650E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		36ECF705295DC44D000C650E /* Students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Students.swift; sourceTree = "<group>"; };
+		36ECF707295DC46B000C650E /* Teachers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teachers.swift; sourceTree = "<group>"; };
+		36ECF709295DC6B0000C650E /* DataBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataBase.swift; sourceTree = "<group>"; };
+		36ECF70B295DF2A8000C650E /* hospital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hospital.swift; sourceTree = "<group>"; };
+		36ECF70D295DF2CB000C650E /* patients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = patients.swift; sourceTree = "<group>"; };
+		36ECF70F295E0682000C650E /* patient list.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "patient list.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				36ECF6FE295C8BF9000C650E /* main.swift */,
+				36ECF705295DC44D000C650E /* Students.swift */,
+				36ECF707295DC46B000C650E /* Teachers.swift */,
+				36ECF709295DC6B0000C650E /* DataBase.swift */,
+				36ECF70B295DF2A8000C650E /* hospital.swift */,
+				36ECF70D295DF2CB000C650E /* patients.swift */,
+				36ECF70F295E0682000C650E /* patient list.swift */,
 			);
 			path = "2-month ДЗ-3";
 			sourceTree = "<group>";
@@ -121,6 +139,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				36ECF6FF295C8BF9000C650E /* main.swift in Sources */,
+				36ECF706295DC44D000C650E /* Students.swift in Sources */,
+				36ECF70A295DC6B0000C650E /* DataBase.swift in Sources */,
+				36ECF70C295DF2A8000C650E /* hospital.swift in Sources */,
+				36ECF710295E0682000C650E /* patient list.swift in Sources */,
+				36ECF708295DC46B000C650E /* Teachers.swift in Sources */,
+				36ECF70E295DF2CB000C650E /* patients.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
